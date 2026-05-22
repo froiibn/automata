@@ -49,7 +49,7 @@ Copyright © 2009-present Automata Project. All rights reserved.
 
 
 ---
-# C++ 코드 분석: 정규표현식 → NFA → DFA 변환기
+# 정규표현식 → NFA → DFA 변환기
 
 <img width="1472" height="320" alt="image" src="https://github.com/user-attachments/assets/85142269-42da-4956-8b9e-27e7999da659" />
 
