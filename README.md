@@ -1,10 +1,17 @@
 # 오토마타 (Automata)
 
+> Originally created in 2009.  
+> 최초 작성: 2009년
+
+---
+
 ## 한국어
 
 ### 라이선스 및 사용 조건
 
-본 프로젝트(오토마타, Automata)는 학습, 연구, 개인적인 실험 목적으로 자유롭게 사용할 수 있습니다.
+본 프로젝트(오토마타, Automata)는 2009년에 최초 작성되었습니다.
+
+본 프로젝트는 학습, 연구, 개인적인 실험 목적으로 자유롭게 사용할 수 있습니다.
 
 다만 아래 사항을 반드시 준수해야 합니다.
 
@@ -22,7 +29,9 @@
 
 ### License & Usage Terms
 
-This project (Automata) may be freely used for educational, research, and personal experimental purposes.
+This project (Automata) was originally created in 2009.
+
+This project may be freely used for educational, research, and personal experimental purposes.
 
 However, the following conditions must be strictly followed:
 
@@ -33,3 +42,7 @@ However, the following conditions must be strictly followed:
 - The author is not responsible for any damages, issues, or liabilities arising from the use of this project.
 
 For commercial licensing or other inquiries, please contact the author.
+
+---
+
+Copyright © 2009-present Automata Project. All rights reserved.
